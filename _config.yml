@@ -1,3 +1,11 @@
-title: สอน HTML เบื้องต้น
-theme: just-the-docs
+title: สอนเขียน HTML เบื้องต้น
+description: บทเรียน HTML สำหรับผู้เริ่มต้น
+theme: null  # ปิดการใช้ theme ปกติ
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# ตัวเลือกเพิ่มเติมสำหรับ just-the-docs
 color_scheme: light
+logo: "/assets/images/logo.png"  # ถ้ามีโลโก้
+search_enabled: true
