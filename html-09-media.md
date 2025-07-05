@@ -1,6 +1,6 @@
 ---
 layout: default
-title: สื่อมีเดีย: <audio>, <video>
+title: สื่อมีเดีย
 nav_order: 10
 ---
 

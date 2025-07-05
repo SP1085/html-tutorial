@@ -1,6 +1,6 @@
 ---
 layout: default
-title: แสดงภาพด้วย <img>
+title: แสดงภาพด้วย
 nav_order: 6
 ---
 

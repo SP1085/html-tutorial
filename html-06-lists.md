@@ -1,6 +1,6 @@
 ---
 layout: default
-title: รายการ: <ul>, <ol>, <li>
+title: รายการ
 nav_order: 7
 ---
 

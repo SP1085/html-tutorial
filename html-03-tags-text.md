@@ -1,6 +1,6 @@
 ---
 layout: default
-title: แท็กข้อความ <h1> - <p>, <br>
+title: แท็กข้อความ
 nav_order: 4
 ---
 
