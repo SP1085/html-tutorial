@@ -57,6 +57,11 @@ HTML5 รองรับการแสดง **เสียง (Audio)** แล
 - `.webm` (`video/webm`)
 - `.ogg` (`video/ogg`)
 
+<audio controls>
+  <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+  ไม่สามารถเล่นเสียง
+</audio>
+
 ---
 
 ## 🔸 คุณสมบัติเสริมของ `<video>`
@@ -84,6 +89,11 @@ HTML5 รองรับการแสดง **เสียง (Audio)** แล
 <video width="320" height="240" controls autoplay loop muted poster="preview.jpg">
   <source src="video.mp4" type="video/mp4" />
   เบราว์เซอร์ของคุณไม่รองรับการเล่นวิดีโอ
+</video>
+
+<video controls width="300">
+  <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+  ไม่สามารถเล่นวิดีโอ
 </video>
 
 ---
